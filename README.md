@@ -1,6 +1,6 @@
-### RHODE VAN WYK
+### <img src="https://flagcdn.com/w40/za.png" width="30"/> RHODE VAN WYK 
 
-> I'm a Junior Full-Stack Web Developer, based in Pretoria, South Africa, busy skilling up on my own, using the abundance of resources on the web. I create art when I'm not coding and I code when I'm not creating art...joke...I do more than JUST that, sometimes. More about me...I learn by doing, I'm persistent to the point of MAYBE being annoying, I like having some form of independence, not afraid to speak / express myself, and I'm VERY detail aware.
+> I'm a Junior Full-Stack Web Developer, based in Pretoria, South Africa...busy skilling up on my own, using the abundance of resources on the web. I create art when I'm not coding and I code when I'm not creating art...joke...I do more than JUST that, sometimes. More about me...I learn by doing, I'm persistent to the point of MAYBE being annoying, I like having some form of independence, not afraid to speak / express myself, and I'm VERY detail aware.
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### MY WORK EXPERIENCE...
 
-**Junior Full-Stack Web Developer & UI/UX Designer**
+<img src="https://flagcdn.com/w40/at.png" width="30"/> **Junior Full-Stack Web Developer & UI/UX Designer**
 ZimmerSoftware KG | Vienna, Austria | Remote | Jun 2025 – Jan 2026
 
 > I started working for ZimmerSoftware KG, 5 months after graduating High-School, with no prior web development experience (I only knew basic HTML) I received on-the-job training from the BEST 2 Senior Developers and skilled up while working with the MOST IMPRESSIVE team in Austria all while based in South-Africa. I worked within a Linux based (Kubuntu) development environment, and mainly contributed to the maintenance of the ZimmerSoftware PMS using the LAMP Stack.
