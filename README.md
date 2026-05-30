@@ -49,7 +49,7 @@
 ### WHAT AM I CURRENTLY DOING WITH MY TIME?
 
 - Building A Private Community Platform (PHP + MySQL)
-- Building An Invoice Generato (Full-Stack PHP SaaS, PDF Export & Auth)
+- Building An Invoice Generator (Full-Stack PHP SaaS, PDF Export & Auth)
 - Building A Group Chat App (Real-Time Messaging, PHP + MySQL)
 
 ---
@@ -79,17 +79,3 @@ A list of things I did:
 
 [![Email](https://img.shields.io/badge/vanwykrhode30@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vanwykrhode30@gmail.com)
 
-<!--
-**rhodevanwyk/rhodevanwyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
