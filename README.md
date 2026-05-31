@@ -48,9 +48,7 @@
 
 ### WHAT AM I CURRENTLY DOING WITH MY TIME?
 
-- Building A Private Community Platform (PHP + MySQL)
-- Building An Invoice Generator (Full-Stack PHP SaaS, PDF Export & Auth)
-- Building A Group Chat App (Real-Time Messaging, PHP + MySQL)
+- Building projects with PHP & MySQL.
 
 ---
 
