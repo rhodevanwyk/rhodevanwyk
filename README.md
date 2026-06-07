@@ -1,4 +1,4 @@
-<img width="3888" height="1404" alt="ascii-art-text (6) 1" src="https://github.com/user-attachments/assets/f40f6685-18ee-4674-8cfd-486b6fab13b3" />
+### <img src="https://flagcdn.com/w40/za.png" width="30"/> RHODE VAN WYK 
 
 > I'm a Junior Full-Stack Web Developer, based in Pretoria, South Africa...busy skilling up on my own, using the abundance of resources on the web. I create art when I'm not coding and I code when I'm not creating art...joke...I do more than JUST that, sometimes. More about me...I learn by doing, I'm persistent to the point of MAYBE being annoying, I like having some form of independence, not afraid to speak / express myself, and I'm VERY detail aware.
 
